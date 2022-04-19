@@ -1,12 +1,11 @@
 {
   "name": "@thiago_brolly/app",
+  "version": "0.1.0",
   "main": "index.js",
   "license": "MIT",
   "private": true,
   "scripts": {
     "start": "webpack server"
-  },
-  "dependencies": {
   },
   "devDependencies": {
     "@babel/cli": "^7.16.7",
