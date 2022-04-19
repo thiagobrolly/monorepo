@@ -1,0 +1,14 @@
+{
+  "name": "@thiago_brolly/icons",
+  "description": "Design System Icons",
+  "author": "Thiago Sousa <thiago.sousa@paylivre.com>",
+  "homepage": "",
+  "license": "MIT",
+  "main": "lib/components.js",
+  "files": [
+    "lib"
+  ],
+  "publishConfig": {
+    "access": "public"
+  }
+}
