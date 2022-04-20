@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [0.2.0](https://github.com/thiagobrolly/monorepo/compare/v0.1.0...v0.2.0) (2022-04-20)
+
+
+### Features
+
+* add componentes Card, Heading and Separator ([6c7537a](https://github.com/thiagobrolly/monorepo/commit/6c7537a4130879d2690ad65d435f17cf70ed5537))
+
+
+
+
+
 # 0.1.0 (2022-04-19)
 
 
