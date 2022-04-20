@@ -1,11 +1,16 @@
-import React from "react";
+import * as S from './styles';
 
 export interface HeaderProps {
   label: string;
 }
 
-const Header = (props: HeaderProps) => {
-  return <div>{props.label}IconB</div>;
+export const HeaderIcon = (props: HeaderProps) => {
+  return (
+    <div>
+      {props.label}
+      <S.Wrapper>IconB</S.Wrapper>
+    </div>
+  );
 };
 
-export default Header;
+// export default HeaderIcon;

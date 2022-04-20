@@ -1,2 +1,3 @@
-export { default as ButtonIcon } from "./ButtonIcon";
-export { default as HeaderIcon } from "./HeaderIcon";
+export { default as ButtonIcon } from './ButtonIcon';
+export { HeaderIcon } from './HeaderIcon';
+// export { Separator } from './Separator';
