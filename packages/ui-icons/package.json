@@ -1,9 +1,9 @@
 {
-  "name": "@thiago_brolly/icons",
+  "name": "@thiago_brolly/icons-a",
   "description": "Design System Icons",
   "author": "Thiago Sousa <thiago.sousa@paylivre.com>",
   "license": "MIT",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "main": "lib/index.js",
   "module": "lib/index.esm.js",
   "types": "lib/index.d.ts",
